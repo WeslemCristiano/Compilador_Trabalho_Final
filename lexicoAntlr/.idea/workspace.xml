@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6a7e857d-1de9-4e08-a5e8-38eecf5661ba" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/lexico/lexico/src/AnalisadorLexico.java" beforeDir="false" afterPath="$PROJECT_DIR$/lexico/lexico/src/AnalisadorLexico.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lexico/lexico/src/Leitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/lexico/lexico/src/Leitor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lexico/lexico/src/TokenEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/lexico/lexico/src/TokenEnum.java" afterDir="false" />
+    <list default="true" id="3f5a8eb5-e549-49de-9266-c3def281188b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lexico/lexico/src/AnalisadorLexico.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lexico/lexico/src/AnalisadorLexico.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lexico/lexico/src/Leitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lexico/lexico/src/Leitor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lexico/lexico/src/TokenEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lexico/lexico/src/TokenEnum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,15 +13,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="MarkdownSettingsMigration">
-    <option name="stateVersion" value="1" />
-  </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 2
-}</component>
-  <component name="ProjectId" id="2cs0lldQRl7FwzDk8w0jj0rUnMp" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2ct0vnDuUgrVkqaIrJ8OeIKga1A" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -44,11 +42,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="6a7e857d-1de9-4e08-a5e8-38eecf5661ba" name="Changes" comment="" />
-      <created>1708885131593</created>
+      <changelist id="3f5a8eb5-e549-49de-9266-c3def281188b" name="Changes" comment="" />
+      <created>1708915800400</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1708885131593</updated>
+      <updated>1708915800400</updated>
     </task>
     <servers />
   </component>

@@ -5,5 +5,5 @@ public enum TokenEnum {
     OpRelmenor, OpRelMenorIgual, OpRelMaiorIgual,
     OpRelMaior, OpRelIgual, OpRelDif,
     OpBooLE, OpBoolOu,
-    Delim, AbrePar, FechaPar, Var, NumInt, NumReal, Cadeia, FIm
+    Delim, AbrePar, FechaPar, Var, NumInt, NumReal, Cadeia, Fim
 }

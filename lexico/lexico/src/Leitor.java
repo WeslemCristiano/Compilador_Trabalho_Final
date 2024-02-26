@@ -74,6 +74,7 @@ public class Leitor {
 
     private int proxCaracterBuffer() {
         int ret = bufferLeitura[ponteiro];
+        System.out.print(this);
         incrementarPonteiro();
         return ret;
     }
