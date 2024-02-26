@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="lexico:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/lexico_jar</output-path>
+    <root id="archive" name="lexico.jar">
+      <element id="module-output" name="lexico" />
+    </root>
+  </artifact>
+</component>

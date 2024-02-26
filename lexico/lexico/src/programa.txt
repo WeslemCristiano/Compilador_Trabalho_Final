@@ -1,0 +1,24 @@
+:DECLARACOES
+argumento: INT
+fatorial: INT
+
+:ALGORITMO
+%Calcula o fatorial de um número inteiro
+LER argumento
+ATRIBUIR argumento A fatorial
+
+SE argumento = 0 ENTAO ATRIBUIR 1 A fatorial
+
+ENQUANTO ARGUMENTO < 100
+ENQUANTO ARGUMENTO <500
+E ENQUANTO ARGUMENTO != A
+
+ENQUANTO argumento > 1
+	INICIO
+		ATRIBUIR FATORIAL * (argumento - 1) A fatorial
+		ATRIBUIR argumento - 1 A argumento
+	FIM
+IMPRIMIR fatorial
+
+
+
