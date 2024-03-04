@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="lexico/lexico/src"/>
+	<classpathentry kind="src" path="lexico/lexicoAntlr/src/main/antlr4/lexico"/>
+	<classpathentry kind="src" path="lexico/lexicoAntlr/src/main/java"/>
+	<classpathentry kind="src" path="lexico/lexicoAntlr/target/generated-sources/antlr4"/>
+	<classpathentry kind="src" path="xtext"/>
+	<classpathentry kind="lib" path="lexico/lexico/out/artifacts/lexico_jar/lexico.jar"/>
+	<classpathentry kind="lib" path="lexico/lexicoAntlr/target/lexicoAntlr-1.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="lexico/lexicoAntlr/target/lexicoAntlr-1.0-SNAPSHOT-jar-with-dependencies.jar"/>
+	<classpathentry kind="output" path="lexico/lexico/out/production/lexico"/>
+</classpath>

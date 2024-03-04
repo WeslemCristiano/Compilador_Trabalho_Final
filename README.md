@@ -1,2 +1,0 @@
-# Compilador_Trabalho_Final
-Compiladores
